@@ -1,3 +1,4 @@
+{-# OPTIONS_HADDOCK hide, prune #-}
 -- |
 -- Module:      Data.Swagger
 -- Maintainer:  Nickolay Kudasov <nickolay@getshoptv.com>
